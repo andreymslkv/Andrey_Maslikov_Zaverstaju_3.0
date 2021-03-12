@@ -3,3 +3,8 @@
 * HTML
 * CSS
 * JS (для плавной прокрутки по ссылкам)
+
+
+## Ссылка на GitPages: 
+
+https://andreymslkv.github.io/Andrey_Maslikov_Zaverstaju_3.0/
